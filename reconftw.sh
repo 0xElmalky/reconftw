@@ -3044,8 +3044,8 @@ function recon() {
 	cdnprovider
 	portscan
 	waf_checks
-	nuclei_check
-	fuzz
+	#	nuclei_check
+	#	fuzz
 	urlchecks
 	jschecks
 
